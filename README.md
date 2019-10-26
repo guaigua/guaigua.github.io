@@ -3,7 +3,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/guaigua/guaigua.github.io">
-  <img src="assets/logo.png" alt="Markdownify" width="200"></a>
+  <img src="assets/images/logo.png" alt="Markdownify" width="200"></a>
   <br>
   best-resume
   <br>
